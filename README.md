@@ -1,4 +1,4 @@
-# CSC590 Design Project
+# Twitter Sentiment Analysis
 
 ## Authors
 ### Dongchen Zou: dczzzzzdc 
